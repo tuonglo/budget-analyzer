@@ -1,0 +1,56 @@
+date,description,amount,type
+2024-01-03,Trader Joe's grocery run,47.82,debit
+2024-01-05,Spotify Premium,9.99,debit
+2024-01-07,Campus Dining Hall,12.50,debit
+2024-01-08,Uber ride to campus,8.75,debit
+2024-01-10,Amazon textbook order,64.99,debit
+2024-01-12,Part-time job paycheck,450.00,credit
+2024-01-14,Netflix subscription,15.99,debit
+2024-01-15,Chipotle lunch,11.25,debit
+2024-01-17,CVS pharmacy,23.40,debit
+2024-01-18,Electric bill,55.00,debit
+2024-01-20,Starbucks coffee,6.45,debit
+2024-01-21,Planet Fitness membership,25.00,debit
+2024-01-22,Whole Foods Market,38.60,debit
+2024-01-24,Lyft to airport,24.00,debit
+2024-01-25,Hulu subscription,7.99,debit
+2024-01-26,McDonald's dinner,9.87,debit
+2024-01-28,Internet bill,49.99,debit
+2024-01-29,Walgreens vitamins,18.75,debit
+2024-01-30,Freelance tutoring income,120.00,credit
+2024-02-01,Target household items,52.30,debit
+2024-02-03,Dining Hall lunch,11.00,debit
+2024-02-05,Uber Eats delivery,22.40,debit
+2024-02-06,Apple iCloud storage,2.99,debit
+2024-02-08,Barnes & Noble notebook,14.99,debit
+2024-02-10,Part-time job paycheck,450.00,credit
+2024-02-11,Domino's pizza,18.99,debit
+2024-02-12,Shell gas station,41.00,debit
+2024-02-14,Valentine's Day dinner,67.50,debit
+2024-02-15,Costco bulk groceries,89.40,debit
+2024-02-17,YouTube Premium,13.99,debit
+2024-02-18,Campus gym fee,10.00,debit
+2024-02-20,Rent payment,650.00,debit
+2024-02-21,Taco Bell late night,7.43,debit
+2024-02-23,Chegg subscription,14.95,debit
+2024-02-25,Freelance tutoring income,80.00,credit
+2024-02-26,Dollar Tree supplies,12.00,debit
+2024-02-28,Pharmacy prescription,35.00,debit
+2024-03-01,Trader Joe's grocery run,55.10,debit
+2024-03-03,Starbucks coffee,5.75,debit
+2024-03-05,Part-time job paycheck,450.00,credit
+2024-03-06,Audible audiobook,14.95,debit
+2024-03-08,Chipotle lunch,12.50,debit
+2024-03-10,Electric bill,62.00,debit
+2024-03-12,Uber ride downtown,11.20,debit
+2024-03-14,Zoom subscription,16.00,debit
+2024-03-15,Dining Hall dinner,13.75,debit
+2024-03-17,Amazon Prime membership,14.99,debit
+2024-03-19,Walgreens toiletries,29.50,debit
+2024-03-20,Rent payment,650.00,debit
+2024-03-22,Five Guys burger,14.80,debit
+2024-03-24,Freelance tutoring income,150.00,credit
+2024-03-25,Internet bill,49.99,debit
+2024-03-27,Planet Fitness membership,25.00,debit
+2024-03-28,Target clothing,78.90,debit
+2024-03-30,Lyft ride home,9.60,debit
